@@ -1,0 +1,6 @@
+student|123!dkaljsd!sdnjaksjd!ksjdakjskld
+student|23!artem!62!232!23
+course|90!math!23!oleg!dima
+teacher|12!Pasha!7!90
+course|12!ks!12!232
+course|232!School!12!23!123
